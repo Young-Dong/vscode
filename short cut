@@ -1,19 +1,19 @@
 command palette: `Ctrl + P`
-  find command: >
-  symbol search: @ / Ctrl + Shift + .
-  globe symbol search: #
+  find command: `>`
+  symbol search: `@` or `Ctrl + Shift + .`
+  globe symbol search: `#`
 
-go to line: Ctrl + G
+go to line: `Ctrl + G`
 
-highlight character: Shift + ←/→
-highlight word: Ctrl + Shift + ←/→
-highlight line: Ctrl + L
+highlight character: `Shift + ←/→`
+highlight word: `Ctrl + Shift + ←/→`
+highlight line: `Ctrl + L`
 
-multi line editing same word: Ctrl + D
-set multiple cursors: Alt + Click
+multi line editing same word: `Ctrl + D` * n
+set multiple cursors: `Alt + Click`
 
-move line: Alt + ↓/↑
-move & copy line: Alt + Shift + ↓/↑
+move line: `Alt + ↓/↑`
+move & copy line: `Alt + Shift + ↓/↑`
 
-toggle comments: Ctrl + /
-toggle terminal: Ctrl + `
+toggle comments: `Ctrl + /`
+toggle terminal: `Ctrl + ``
